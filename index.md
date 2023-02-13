@@ -5,3 +5,7 @@
 ```
 $ git commit ssj-trunks.png
 ```
+
+- [x] Base Form
+- [x] Super Saiyan
+- [ ] Super Saiyan Rage
